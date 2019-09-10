@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "A short introduction of myself"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website...
+I am...
 
 
-A data-driven personal website
-======
-Like many other...
 
-
-For more info
-------
-More info about...
