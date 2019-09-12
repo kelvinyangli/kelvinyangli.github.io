@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Graph Morality?"
+title                    : "Is your graph moral?"
 title_separator          : "-"
 name                     : &name "Kelvin Yang Li"
 description              : &description "personal description"
