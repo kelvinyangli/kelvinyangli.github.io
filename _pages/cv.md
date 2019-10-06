@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Research Fellow, Aug 2019 - Present, Australian National University
- * Researching in the field of graph-based entity resolution, adaptive data analysis using differential privacy
+  * Researching in graph-based entity resolution and adaptive data analysis using differential privacy
 
 * Data Scientist, Mar 2019 - Present, ANZ Bank
   * Modelling Net Promoter System data and customer complaints
