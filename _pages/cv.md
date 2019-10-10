@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. in Philosophy and Mathematics, the University of Melbourne, 2009
-* M.S. in Mathematics, the University of Melbourne, 2011
 * Ph.D in Computer Science, Monash University, 2020
+* M.S. in Mathematics, the University of Melbourne, 2011
+* B.A. in Philosophy and Mathematics, the University of Melbourne, 2009
 
 Work experience
 ======
