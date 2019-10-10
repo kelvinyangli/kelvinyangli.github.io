@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Research Fellow, Aug 2019 - Present, Australian National University
+* Research Fellow, Aug 2019 - Present, Australian National University, Canberra
   * Researching in graph-based entity resolution and adaptive data analysis using differential privacy
 
 * Data Scientist, Mar 2019 - Present, ANZ Bank
@@ -26,7 +26,7 @@ Work experience
   * Analysing root causes of customer complaints 
 
 * Online Lecturer, Jun 2018 - Mar 2019, Monash University
-  * Co-delivered Data Analysis Algorithm, Modelling for Data Analysis for Graduate Diploma of Data Science degree
+  * Co-delivered the courses Data Analysis Algorithm (FIT5197) and Modelling for Data Analysis (FIT5201) for Graduate Diploma of Data Science degree
   * Refreshed course materials including assessments, reading materials and lecture slides
 
 * Research Assistant, Oct 2018 - Jan 2019, Deakin University
@@ -36,13 +36,12 @@ Work experience
   * Assisted in preliminary power analysis, post hoc data analysis on multiple experiments
   * Assisted in writing final report and journal paper
 
-* Data Scientist (Internship), Feb 2017 - Jul 2017, ANZ Bank
-  * AMSI internship at ANZ’s Analytics and Insights team
-  * Worked in a scaled agile work environment as a data scientist 
-  * Built causal Bayesian models to model customer advocacy
+* Data Scientist (AMSI Internship), Feb 2017 - Jul 2017, ANZ Bank
+  * Worked in the scaled agile environment as a data scientist in Analytics and Insights
+  * Built causal Bayesian models to analyse the relations among customer advocacy, NPS scores and product holdings
 
 * Teaching Associate, Semester 2 2015, Semester 2 2016, Semester 1 2018, Monash University
-  * Tutored Modelling for Data Analysis for Master of Data Science degree
+  * Tutored the course Modelling for Data Analysis (FIT5197) for Master of Data Science degree
   * Assisted in course development and refreshment, including assessments and exam development
 
 * Data Analyst, Nov 2013 - Feb 2014, Endeavour Foundation
