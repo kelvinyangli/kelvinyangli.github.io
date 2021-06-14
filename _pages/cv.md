@@ -18,8 +18,9 @@ Education
 Work experience
 ======
 * Research Fellow, Aug 2019 - Present, Australian National University, Canberra
-  * Researching in graph-based entity resolution and adaptive data analysis using differential privacy
-
+  * Researching in graph differential privacy, homomorphic encryption, graph-based entity resolution
+  * Co-delivered the course Data Mining (COMP8410) for online blended mode students 
+  
 * Data Scientist, Mar 2019 - Present, ANZ Bank
   * Modelling Net Promoter System data and customer complaints
   * Mining customer NPS survey verbatim and complaint verbatim 
