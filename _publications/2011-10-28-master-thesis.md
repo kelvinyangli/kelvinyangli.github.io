@@ -2,7 +2,7 @@
 title: "Solving distance three linear and cyclic metric labelling problems of complete m-ary trees"
 collection: publications
 permalink: /publication/2011-10-28-master-thesis
-excerpt: 'Graph labelling problems of complete m-ary trees'
+excerpt: 'Master Thesis.'
 date: 2011-10-28
 venue: 'University of Melbourne, Australia'
 paperurl: 'https://github.com/kelvinyangli/theories/blob/master/Solving%20distance%20three%20linear%20and%20cyclic%20metric%20labelling%20problems%20of%20complete%20m-ary%20trees.pdf'

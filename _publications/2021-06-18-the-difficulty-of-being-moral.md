@@ -2,7 +2,7 @@
 title: "The Difficulty of Being Moral"
 collection: publications
 permalink: /publication/2021-06-18-the-difficulty-of-being-moral
-excerpt: 'Check Markov blanket consistency from graph morality'
+excerpt: 'Check Markov blanket consistency from graph morality.'
 date: 2021-06-18
 venue: 'Theoretical Computer Science'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0304397521003650'

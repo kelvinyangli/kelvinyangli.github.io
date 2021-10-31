@@ -2,7 +2,7 @@
 title: "Proving the NP-completeness of optimal moral graph triangulation"
 collection: publications
 permalink: /publication/2019-03-06-proving-the-np-completeness-of-optimal-moral-graph-triangulation
-excerpt: 'This preprint was rejected by UAI2019 because the claims can be proved in a much simpler way'
+excerpt: 'The main claim in the paper can be proved in a much simpler way.'
 date: 2019-03-06
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/1903.02201.pdf'
